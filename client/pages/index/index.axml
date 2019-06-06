@@ -1,0 +1,19 @@
+<view>
+  <view class="all">
+    <view class="side">
+    <textarea id="swot-name" placeholder="分析名" />
+    <textarea id="strengths" placeholder="placeholder" />
+    <textarea id="weaknesses" placeholder="placeholder" />
+    </view>
+    <view class="side">
+    <textarea id="opportunities" placeholder="placeholder" />
+    <textarea id="str-opp" placeholder="placeholder" />
+    <textarea id="weak-opp" placeholder="placeholder" />
+    </view>
+    <view class="side">
+    <textarea id="threats" placeholder="placeholder" />
+    <textarea id="str-opp" placeholder="placeholder" />
+    <textarea id="weak-opp" placeholder="placeholder" />
+    </view>
+  </view>
+</view>

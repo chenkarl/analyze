@@ -1,0 +1,6 @@
+.all{
+  display: flex;
+}
+.side{
+  direction: initial;
+}
